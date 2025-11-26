@@ -78,5 +78,5 @@
    (facts))
 
 ; Примеры:
-; CLIPS> (load "dashboard_expert.clp")
+; CLIPS> (load "consult_helper.clp")
 ; CLIPS> (run-scenario access release)
