@@ -1,4 +1,4 @@
-; База знаний консультантов Dashboard Expert
+; База знаний консультантов Consult Helper
 ; Назначение: выдача инструкций по типовым кейсам сопровождения
 
 (defglobal
@@ -78,5 +78,5 @@
    (facts))
 
 ; Примеры:
-; CLIPS> (load "dashboard_expert.clp")
+; CLIPS> (load "consult_helper.clp")
 ; CLIPS> (run-scenario access release)
